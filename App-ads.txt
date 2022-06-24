@@ -1,6 +1,6 @@
 #Last update Jun 17, 2022
 #=== AdMob
-google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
+google.com, pub-8066790994735658, DIRECT, f08c47fec0942fa0
 #=== FacebookAN
 
 #=== AdColony
