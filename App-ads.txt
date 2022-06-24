@@ -1,19 +1,13 @@
 #Last update Jun 17, 2022
 #=== AdMob
 google.com, pub-8858162097015410, DIRECT, f08c47fec0942fa0
-google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
-google.com, pub-2871335254532484, DIRECT, f08c47fec0942fa0
-google.com, pub-7022579750037037, DIRECT, f08c47fec0942fa0
-google.com, pub-5636049984270410, DIRECT, f08c47fec0942fa0
 #=== FacebookAN
 facebook.com, 805069172997110, DIRECT, c3e20eee3f780d68
 #=== AdColony
 adcolony.com, 4f99f033452c0143c565ad88578f8264, DIRECT, 1ad675c9de6b5176
 #=== AdColony partner 1
 pubnative.net, 1007112, RESELLER, d641df8625486a7b
-pubnative.net, 1005686, RESELLER, d641df8625486a7b
 peak226.com, 12920, RESELLER
-peak226.com, 12921, RESELLER
 pubmatic.com, 156584, RESELLER, 5d62403b186f2ace
 loopme.com, 9219, RESELLER, 6c8d5f95897a5a3b
 appnexus.com, 3756, RESELLER, f5ab79cb980f11d1
